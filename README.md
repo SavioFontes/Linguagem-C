@@ -4,5 +4,6 @@ Aplicações realizadas em C dentre as disciplinas do curso de Bacharelado em Ci
 <h2>Matérias presentes:</h2>
 <p>
   <li>Algoritmos 1;</li>
+  <li>Arquivos;</li>
   <li>Grafos.</li>
 </p>  
